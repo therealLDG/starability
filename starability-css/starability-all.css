@@ -108,7 +108,6 @@
 
 .starability-basic > label {
   position: relative;
-  display: inline-block;
   float: left;
   width: 30px;
   height: 30px;
@@ -299,7 +298,6 @@
 
 .starability-slot > label {
   position: relative;
-  display: inline-block;
   float: left;
   width: 30px;
   height: 30px;
@@ -532,7 +530,6 @@
 
 .starability-grow > label {
   position: relative;
-  display: inline-block;
   float: left;
   width: 30px;
   height: 30px;
@@ -788,7 +785,6 @@
 
 .starability-growRotate > label {
   position: relative;
-  display: inline-block;
   float: left;
   width: 30px;
   height: 30px;
@@ -1040,7 +1036,6 @@
 
 .starability-fade > label {
   position: relative;
-  display: inline-block;
   float: left;
   width: 30px;
   height: 30px;
@@ -1301,7 +1296,6 @@
 
 .starability-checkmark > label {
   position: relative;
-  display: inline-block;
   float: left;
   width: 30px;
   height: 30px;
@@ -1607,7 +1601,6 @@
 
 .starability-heart > label {
   position: relative;
-  display: inline-block;
   float: left;
   width: 30px;
   height: 30px;
@@ -1889,7 +1882,6 @@
 
 .starability-heartbeat > label {
   position: relative;
-  display: inline-block;
   float: left;
   width: 30px;
   height: 30px;
@@ -2191,7 +2183,6 @@
 
 .starability-coinFlip > label {
   position: relative;
-  display: inline-block;
   float: left;
   width: 30px;
   height: 30px;
